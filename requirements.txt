@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langgraph
+pygsheets
+pandas
+langchain-groq
+dotenv
+langchain-google-genai
+opik
+langchain
